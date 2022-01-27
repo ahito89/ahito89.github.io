@@ -1,24 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>poneglyph</title>
-    <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://ahito89.github.io/tags/circleci/</link>
-    <updated>Tue, 06 Oct 2015 11:56:13 EEST</updated>
-    
-    <item>
-      <title>Set Sail!</title>
-      <link>http://ahito89.github.io/2015/10/06/set-sail</link>
-      <pubDate>Tue, 06 Oct 2015 11:56:13 EEST</pubDate>
-      
-      <guid>http://ahito89.github.io/2015/10/06/set-sail</guid>
-      <description>&lt;p&gt;So this is a story about my first blog and the tools used to create it.&lt;/p&gt;
-
-&lt;p&gt;A few months ago I decided that i want to start writing about development and other stuff running around through my head. After playing around with &lt;a href=&#34;https://ghost.org&#34;&gt;Ghost&lt;/a&gt;, &lt;a href=&#34;https://wordpress.com&#34;&gt;Wordpress&lt;/a&gt; , &lt;a href=&#34;http://jaspervdj.be/hakyll&#34;&gt;Hakyll&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;; I decided that Hugo is the way to go for my needs. Github Pages is a nice free hosting place for small static sites, CircleCI is used for deployment and everything was up and running in a few hours with the nice Hugo-Zen theme made by Rakuishi.&lt;/p&gt;
-
-&lt;p&gt;Let the journey begin!&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>circleci on poneglyph</title><link>https://ahito89.github.io/tags/circleci/</link><description>Recent content in circleci on poneglyph</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2015 11:56:13 +0300</lastBuildDate><atom:link href="https://ahito89.github.io/tags/circleci/index.xml" rel="self" type="application/rss+xml"/><item><title>Set Sail!</title><link>https://ahito89.github.io/2015/10/06/set-sail/</link><pubDate>Tue, 06 Oct 2015 11:56:13 +0300</pubDate><guid>https://ahito89.github.io/2015/10/06/set-sail/</guid><description>So this is a story about my first blog and the tools used to create it.
+A few months ago I decided that i want to start writing about development and other stuff running around through my head. After playing around with Ghost, Wordpress , Hakyll and Hugo; I decided that Hugo is the way to go for my needs. Github Pages is a nice free hosting place for small static sites, CircleCI is used for deployment and everything was up and running in a few hours with the nice Hugo-Zen theme made by Rakuishi.</description></item></channel></rss>
